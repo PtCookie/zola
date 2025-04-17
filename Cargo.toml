@@ -53,6 +53,7 @@ rust-tls = ["libs/rust-tls"]
 native-tls = ["libs/native-tls"]
 indexing-zh = ["libs/indexing-zh"]
 indexing-ja = ["libs/indexing-ja"]
+indexing-ko = ["libs/indexing-ko"]
 
 [workspace]
 members = ["components/*"]
